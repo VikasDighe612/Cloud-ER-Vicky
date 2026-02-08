@@ -10,7 +10,7 @@ const personalInfo = {
   name: "Alex Dev",
   title: "Senior Cloud Architect",
   tagline: "Designing fault-tolerant distributed systems at planetary scale.",
-  image: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=800&q=80",
+  image: "https://github.com/VikasDighe612/Cloud-ER-Vicky/blob/main/CollageMaker_20231130_212312322.jpg?auto=format&fit=crop&w=800&q=80",
   socials: {
     github: "https://github.com",
     linkedin: "https://linkedin.com",
