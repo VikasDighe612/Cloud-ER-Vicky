@@ -7,10 +7,10 @@ import {
 } from 'lucide-react';
 
 const personalInfo = {
-  name: "Alex Dev",
-  title: "Senior Cloud Architect",
+  name: "Vikas Dighe",
   tagline: "Designing fault-tolerant distributed systems at planetary scale.",
-  image: "https://github.com/VikasDighe612/Cloud-ER-Vicky/blob/main/CollageMaker_20231130_212312322.jpg?auto=format&fit=crop&w=800&q=80",
+  title: "Cloud Engineer",
+  image: "https://raw.githubusercontent.com/VikasDighe612/Cloud-ER-Vicky/main/CollageMaker_20231130_212312322.jpg?auto=format&fit=crop&w=800&q=80",
   socials: {
     github: "https://github.com",
     linkedin: "https://linkedin.com",
