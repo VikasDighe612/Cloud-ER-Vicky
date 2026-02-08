@@ -13,7 +13,7 @@ const personalInfo = {
   image: "https://raw.githubusercontent.com/VikasDighe612/Cloud-ER-Vicky/main/CollageMaker_20231130_212312322.jpg?auto=format&fit=crop&w=800&q=80",
   socials: {
     github: "https://github.com",
-    linkedin: "linkedin.com/in/vikas-dighe-651655246",
+    linkedin: "https:linkedin.com/in/vikas-dighe-651655246",
     email: "mailto:vikasdighe2001@gmail.com"
   }
 };
