@@ -14,7 +14,7 @@ const personalInfo = {
   socials: {
     github: "https://github.com",
     linkedin: "https://linkedin.com",
-    email: "mailto:alex@example.com"
+    email: "mailto:vikasdighe2001@gmail.com"
   }
 };
 
